@@ -1,1 +1,10 @@
-
+{
+    "serverstatus":"true",
+    "noticemode":"true",
+    "dataclearmode":"false",
+    "servermeassage":"Under Maintenance Wait 3-4 Hours",
+    "opentime":"",
+    "libs":"https://github.com/lestergithu/R2fbhai/raw/refs/heads/main/libLesterMods.zip",
+    "notice_title":"Welcome Vip Users ! ",
+    "notice_body":""
+            }
