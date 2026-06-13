@@ -1,4 +1,13 @@
 {
   "version": "27.0",
-  "url": "https://t.me/VoltageLoader"
+  "url": "https://t.me/VoltageLoader",
+  "pubgm": true,
+  "bgmi": true,
+  "korea": true,
+  "pubgm_msg": "PUBGM Server Online",
+  "bgmi_msg": "BGMI Server Online",
+  "korea_msg": "KOREA Server Online",
+  "pubgm_obb_url": "https://your-hosting.com/files/main.pubg.obb",
+  "bgmi_obb_url": "https://your-hosting.com/files/main.bgmi.obb",
+  "korea_obb_url": "https://your-hosting.com/files/main.korea.obb"
 }
