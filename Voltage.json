@@ -2,7 +2,7 @@
   "version": "27.0",
   "url": "https://t.me/VoltageLoader",
   "pubgm": true,
-  "bgmi": true,
+  "bgmi": false,
   "korea": true,
   "pubgm_msg": "PUBGM Server Online",
   "bgmi_msg": "BGMI Server Online",
