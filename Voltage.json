@@ -2,9 +2,9 @@
   "version": "29.0",
   "url": "https://t.me/VoltageLoader",
 
-  "pubgm": false,
+  "pubgm": true,
   "bgmi": true,
-  "korea": false,
+  "korea": true,
 
   "pubgm_msg": "PUBG GL Paid Version Buy Now",
   "bgmi_msg": "BGMI SEVER MAINTENANCE",
