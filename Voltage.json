@@ -3,7 +3,7 @@
   "url": "https://t.me/VoltageLoader",
 
   "pubgm": true,
-  "bgmi": false,
+  "bgmi": true,
   "korea": true,
 
   "pubgm_msg": "PUBG GL Paid Version Buy Now",
