@@ -1,5 +1,5 @@
 {
-  "version": "32.0",
+  "version": "33.0",
   "url": "https://t.me/VoltageLoader",
 
   "pubgm": true,
@@ -10,7 +10,9 @@
   "bgmi_msg": "Please Wait..",
   "korea_msg": "KOREA Paid Version Buy Now",
 
-  "pubgm_obb_url": "https://your-hosting.com/files/main.pubg.obb",
-  "bgmi_obb_url": "https://your-hosting.com/files/main.bgmi.obb",
-  "korea_obb_url": "https://your-hosting.com/files/main.korea.obb"
+  "bgmi_v1": true,
+  "bgmi_v1_msg": "Brutal Mode is Online",
+
+  "bgmi_v2": true,
+  "bgmi_v2_msg": "Hide ESP Mode is Online"
 }
