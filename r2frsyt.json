@@ -1,18 +1,21 @@
 {
   "version": "35.0",
   "url": "https://t.me/VoltageLoader",
+  "start_enabled": true,
+  "start_msg": "Loader Online",
 
   "pubgm": true,
-  "bgmi": true,
-  "korea": true,
+  "pubgm_msg": "PUBGM Server Online",
 
-  "pubgm_msg": "PUBG GL Paid Version Buy Now",
-  "bgmi_msg": "Please Wait..",
-  "korea_msg": "KOREA Paid Version Buy Now",
+  "bgmi": true,
+  "bgmi_msg": "BGMI Server Online",
+
+  "korea": true,
+  "korea_msg": "KOREA Server Online",
 
   "bgmi_v1": true,
-  "bgmi_v1_msg": "Brutal Mode is Online",
+  "bgmi_v1_msg": "BRUTAL MENU Online",
 
   "bgmi_v2": true,
-  "bgmi_v2_msg": "Hide ESP Mode is Online"
+  "bgmi_v2_msg": "HIDE ESP MENU Online"
 }
