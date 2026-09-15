@@ -1,5 +1,5 @@
 {
-  "version": "35.0",
+  "version": "34.0",
   "url": "https://t.me/VoltageLoader",
 
   "pubgm": true,
@@ -15,4 +15,4 @@
 
   "bgmi_v2": true,
   "bgmi_v2_msg": "Hide ESP Mode is Online"
-},
+}
