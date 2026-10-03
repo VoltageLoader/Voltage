@@ -1,26 +1,14 @@
 {
-  "version": "1.0",
-  "url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/app-release.apk",
+  "version": "1.3",
+  "url": "https://github.com/VoltageLoader/Voltage/releases/latest",
   "bgmi_v1": true,
+  "price_1day": 100,
+  "price_1day_original": 150,
+  "price_7days": 400,
+  "price_7days_original": 550,
+  "price_30days": 700,
+  "price_30days_original": 1299,
   "music_url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/r2f.mp3",
-  "bot_url": "https://t.me/R2FSUNILYT",
-  "channel_url": "https://t.me/R2FSUNILYT",
-  "plans": [
-    {
-      "duration": "5 Hour",
-      "price": 49
-    },
-    {
-      "duration": "1 Day",
-      "price": 99
-    },
-    {
-      "duration": "7 Day",
-      "price": 499
-    },
-    {
-      "duration": "30 Day",
-      "price": 1499
-    }
-  ]
+  "bot_url": "https://t.me/R2FSUNILYTBOT",
+  "channel_url": "https://t.me/R2FSUNILYT"
 }
