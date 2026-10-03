@@ -3,7 +3,25 @@
   "url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/app-release.apk",
   "bgmi_v1": true,
   "music_url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/r2f.mp3",
-  "bot_url": "https://t.me/R2FSUNILYTBOT",
+  "bot_url": "https://t.me/R2FSUNILYT",
   "channel_url": "https://t.me/R2FSUNILYT",
-  "nowshort_api_key": "6f96dde15d861a2a68f8498f5ee1a8cb185e9ec2"
+  "nowshort_api_key": "6f96dde15d861a2a68f8498f5ee1a8cb185e9ec2",
+  "plans": [
+    {
+      "duration": "5 Hour",
+      "price": 49
+    },
+    {
+      "duration": "1 Day",
+      "price": 99
+    },
+    {
+      "duration": "7 Day",
+      "price": 499
+    },
+    {
+      "duration": "30 Day",
+      "price": 1499
+    }
+  ]
 }
