@@ -1,14 +1,11 @@
 {
   "version": "1.0",
-  "url": "https://github.com/VoltageLoader/Voltage/releases/latest",
+  "url": "https://t.me/VoltageLoader",
   "bgmi_v1": true,
-  "price_1day": 100,
-  "price_1day_original": 150,
-  "price_7days": 400,
-  "price_7days_original": 550,
-  "price_30days": 700,
-  "price_30days_original": 1299,
   "music_url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/r2f.mp3",
   "bot_url": "https://t.me/R2FSUNILYTBOT",
-  "channel_url": "https://t.me/R2FSUNILYT"
+  "channel_url": "https://t.me/R2FSUNILYT",
+  "video_url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/tutorial.mp4",
+  "image_1_url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/image1.jpg",
+  "image_2_url": "https://github.com/VoltageLoader/Voltage/raw/refs/heads/main/image2.jpg"
 }
