@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "url": "https://t.me",
+  "start_enabled": true,
+  "start_msg": "Loader Online",
+
+  "pubgm": true,
+  "pubgm_msg": "PUBGM Server Online",
+
+  "bgmi": true,
+  "bgmi_msg": "BGMI Server Online",
+
+  "korea": true,
+  "korea_msg": "KOREA Server Online",
+
+  "bgmi_v1": true,
+  "bgmi_v1_msg": "BRUTAL MENU Online",
+
+  "bgmi_v2": true,
+  "bgmi_v2_msg": "HIDE ESP MENU Online"
+}
